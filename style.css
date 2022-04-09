@@ -1,0 +1,49 @@
+body,html
+{
+    height: 500px;
+    background-color: #1B1A17;
+}
+
+.container
+{
+    background-color: #3A3845;
+    position: relative;
+    height: 80%;
+    width: 100%;
+    /* left: 0%;
+    right: 0%; */
+    /* margin: 0% auto 0% auto; */
+}
+.T
+{
+    height: 25%;
+    width: 40%;
+    margin:0% auto 0% auto;
+    text-align: center;
+   
+    font-size: 5em;
+    font-family: "Audiowide", sans-serif;
+}
+.X
+{
+    height: 25%;
+    width: 40%;
+    margin:0% auto 0% auto;
+   
+    text-align: center;
+    font-size: 5em;
+    font-family: "Audiowide", sans-serif;
+}
+.TX
+{
+    height: 20%;
+    width: 70%;
+    margin:5% auto 0% auto;
+    text-align: center;
+    font-size: 3em;
+    font-family: "Sofia", sans-serif;
+    color: #826F66;
+    border:2px solid #C69B7B;
+    border-radius: 50px;
+}
+   
